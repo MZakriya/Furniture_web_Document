@@ -1,0 +1,1 @@
+Technical architecture for a scalable furniture e-commerce store, focusing on efficient design and seamless user experience
